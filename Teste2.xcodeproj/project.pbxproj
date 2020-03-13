@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DE6661CC241BE8D600496B13 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6661CB241BE8D600496B13 /* main.swift */; };
+		DE6661D5241BE94F00496B13 /* Aluno.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6661D4241BE94F00496B13 /* Aluno.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		DE6661C8241BE8D600496B13 /* Teste2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Teste2; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE6661CB241BE8D600496B13 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DE6661D4241BE94F00496B13 /* Aluno.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aluno.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				DE6661CB241BE8D600496B13 /* main.swift */,
+				DE6661D4241BE94F00496B13 /* Aluno.swift */,
 			);
 			path = Teste2;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE6661CC241BE8D600496B13 /* main.swift in Sources */,
+				DE6661D5241BE94F00496B13 /* Aluno.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
